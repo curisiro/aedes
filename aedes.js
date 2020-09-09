@@ -29,7 +29,7 @@ const defaultOptions = {
   trustProxy: false,
   trustedProxies: [],
   queueLimit: 42,
-  maxClientsIdLength: 23
+  maxClientsIdLength: 25
 }
 
 function Aedes (opts) {
